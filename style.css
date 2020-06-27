@@ -1,0 +1,46 @@
+  
+body{
+	font-family: 'Open Sans',sans-serif;
+	background-color: black;
+}
+#container{
+	width: 80%;
+    height: 460px;
+    /* linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),  */
+	background-image:url(https://previews.123rf.com/images/kannaa123rf/kannaa123rf1605/kannaa123rf160500018/56661813-abstract-math-number-background-vector-illustration-for-business-design-black-white-colors-random-si.jpg);
+	margin: 20px auto;	
+}
+.main{
+   margin:0 auto;
+   padding-top:40px ;
+   width:60%;
+    height:360px;   
+    padding-top:100px;
+/* background-color:black; */
+/* padding; */
+text-align: center;
+
+}
+.result{
+    height: 50px;
+    width:410px;
+background-color: grey;
+color: white;
+}
+.clear{
+    background-color: grey;
+    color: white;
+    width: 418px;
+text-align: center;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+margin-top: 2.5px;
+margin-left: 2px;
+}
+/* .halfBtn{
+width: 120px;
+margin: 1px;
+height: 40px;
+} */
